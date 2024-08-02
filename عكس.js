@@ -13,15 +13,15 @@
     },
     {
         "question": "ايرين",
-        "response": "نيريأ"
+        "response": "نيريا"
     },
     {
         "question": "استا",
-        "response": "اتسأ"
+        "response": "اتسا"
     },
     {
         "question": "همتارو",
-        "response": "وراتمح"
+        "response": "وراتمه"
     },
     {
         "question": "الويفيا",
@@ -29,7 +29,7 @@
     },
     {
         "question": "نويل",
-        "response": "ليو"
+        "response": "ليون"
     },
     {
         "question": "رايلي",
@@ -41,7 +41,7 @@
     },
     {
         "question": "لاو",
-        "response": "ولا"
+        "response": "وال"
     },
     {
         "question": "مادارا",
@@ -49,11 +49,11 @@
     },
     {
         "question": "يوريتشي",
-        "response": "يستيروي"
+        "response": "يشتيروي"
     },
     {
         "question": "ايتاتشي",
-        "response": "يچاتئ"
+        "response": "يشتاتيا"
     },
     {
         "question": "توبي",
@@ -69,15 +69,15 @@
     },
     {
         "question": "هاشيراما",
-        "response": "اماراشي"
+        "response": "اماريشاه"
     },
     {
         "question": "بوروتو",
-        "response": "وتروب"
+        "response": "وتوروب"
     },
     {
         "question": "يوسوب",
-        "response": "بوبسو"
+        "response": "بوسوي"
     },
     {
         "question": "ريم",
@@ -85,7 +85,7 @@
     },
     {
         "question": "اوتشيها شيسوي",
-        "response": "يسويش اهتيكو"
+        "response": "يوسيش اهيشتوا"
     },
     {
         "question": "كيد",
@@ -105,23 +105,23 @@
     },
     {
         "question": "تينشيهان",
-        "response": "نهيشنت"
+        "response": "ناهيشنيت"
     },
     {
         "question": "بيكوهان",
-        "response": "نهوكيب"
+        "response": "ناهوكيب"
     },
     {
         "question": "كازيكاجي",
-        "response": "يجاكزك"
+        "response": "يجاكيزاك"
     },
     {
         "question": "جيرايا",
-        "response": "اياراج"
+        "response": "اياريج"
     },
     {
         "question": "كازيكاجي",
-        "response": "يجاكزك"
+        "response": "يجاكيزاك"
     },
     {
         "question": "كوكومي",
@@ -133,7 +133,7 @@
     },
     {
         "question": "تشيو",
-        "response": "ويتش"
+        "response": "ويشت"
     },
     {
         "question": "ساسوري",
@@ -149,23 +149,23 @@
     },
     {
         "question": "نيجي",
-        "response": "يجي"
+        "response": "يجين"
     },
     {
         "question": "استا",
-        "response": "اتسأ"
+        "response": "اتسا"
     },
     {
         "question": "ليزا",
-        "response": "ازي"
+        "response": "ازيل"
     },
     {
         "question": "كاغويا",
-        "response": "اياوغك"
+        "response": "ايوغاك"
     },
     {
         "question": "هينا",
-        "response": "اناه"
+        "response": "انيه"
     },
     {
         "question": "الوكا",
@@ -173,11 +173,11 @@
     },
     {
         "question": "هيناتا",
-        "response": "اتانهي"
+        "response": "اتانيه"
     },
     {
         "question": "زينتسو",
-        "response": "وسنتي"
+        "response": "وستنيز"
     },
     {
         "question": "رينغوكو",
@@ -189,7 +189,7 @@
     },
     {
         "question": "كورتا",
-        "response": "اترك"
+        "response": "اتروك"
     },
     {
         "question": "هيسوكا",
@@ -197,11 +197,11 @@
     },
     {
        "question": "انوس",
-        "response": "سون"
+        "response": "سونا"
     },
     {
        "question": "بياكوغان",
-        "response": "ناغوكاب"
+        "response": "ناغوكايب"
     },
     {
        "question": "شوكو",
@@ -213,39 +213,39 @@
     },
     {
        "question": "يامي",
-        "response": "يمال"
+        "response": "يماي"
     },
     {
        "question": "فانجانس",
-        "response": "سنجانف"
+        "response": "سناجناف"
     },
     {
        "question": "يوليوس",
-        "response": "سويول"
+        "response": "سويلوي"
     },
     {
        "question": "تسوموغو",
-        "response": "وجوموتس"
+        "response": "وغوموست"
     },
     {
        "question": "نانامي",
-        "response": "يمنان"
+        "response": "يمانان"
     },
     {
        "question": "ايزن",
-        "response": "نزي"
+        "response": "نيزا"
     },
     {
        "question": "زاراكي",
-        "response": "يكراز"
+        "response": "يكاراز"
     },
     {
        "question": "اوراهارا",
-        "response": "اراهرو"
+        "response": "اراهاروا"
     },
     {
        "question": "اينوي",
-        "response": "يوين"
+        "response": "يونيا"
     },
     {
        "question": "غوهان",
@@ -253,14 +253,14 @@
     },
     {
        "question": "كيريلين",
-        "response": "نيليرك"
+        "response": "نيليريك"
     },
     {
        "question": "هيناتسورو",
-        "response": "وروساتني"
+        "response": "وروستانيه"
     },
     {
        "question": "ريتشيل",
-       "response": "ليتشير"
+       "response": "ليشتير"
     }
 ]
